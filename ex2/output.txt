@@ -1,0 +1,25 @@
+
+TOTAL STATES: 15 7 28 46 3 
+
+ALPHABET: a b 
+
+FINAL TRANSITIONS:
+15 a 2
+15 b 6
+15 a 8
+15 b 6
+7 a 7
+7 b 5
+28 a 7
+28 b 3
+28 a 7
+28 b 3
+46 a 3
+46 b 7
+46 a 3
+46 b 7
+
+
+START STATE: 1
+
+END STATES: 3 
